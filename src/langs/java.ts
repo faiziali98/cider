@@ -31,7 +31,7 @@ const getIdentifiers = (rootNode: CstNode): Set<string> => {
     return getAllNames(rootNode);
 };
 
-export const javaLanguageHandler = (selectedCode: string): string => {
+export const javaLanguageHandler: LanguageHandler = (selectedCode) => {
     // Parse the selected Java code
     const parsedCode = parse(selectedCode);
 

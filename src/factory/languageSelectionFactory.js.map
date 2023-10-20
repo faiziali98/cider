@@ -1,0 +1,1 @@
+{"version":3,"file":"languageSelectionFactory.js","sourceRoot":"","sources":["languageSelectionFactory.ts"],"names":[],"mappings":";;;AAAA,wCAAoD;AAEpD,MAAM,qBAAqB,GAA2B;IAClD,MAAM,EAAE,0BAAmB;CAC9B,CAAC;AAEK,MAAM,qBAAqB,GAAG,CAAC,gBAAwB,EAAmB,EAAE;IAC/E,OAAO,qBAAqB,CAAC,gBAAgB,CAAC,CAAC;AACnD,CAAC,CAAC;AAFW,QAAA,qBAAqB,yBAEhC"}
